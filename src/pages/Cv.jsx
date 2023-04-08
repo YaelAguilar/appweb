@@ -1,0 +1,1 @@
+import moduleStyle from "../assets/style/cv.module.css";
