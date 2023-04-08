@@ -1,3 +1,4 @@
+import { data } from "../../data/data";
 import SectionName from "../atoms/SectionName";
 import ExpSection from "../atoms/ExpSection";
 

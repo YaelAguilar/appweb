@@ -1,5 +1,6 @@
 import SkillSection from "../atoms/SkillsSection";
 import SectionName from "../atoms/SectionName";
+import { data } from "../../data/data";
 
 function Skills() {
 

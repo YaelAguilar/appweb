@@ -1,6 +1,6 @@
-
 import SectionName from "../atoms/SectionName";
 import ContactSection from "../atoms/ContactSection";
+import { data } from "../../data/data";
 
 function Contact() {
 

@@ -1,5 +1,6 @@
 import SectionName from "../atoms/SectionName";
 import EducationSection from "../atoms/EducationSection";
+import { data } from "../../data/data";
 
 function Education() {
 

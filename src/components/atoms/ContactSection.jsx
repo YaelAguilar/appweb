@@ -1,13 +1,14 @@
+
 import moduleStyle from "../../assets/style/cv.module.css";
 
-function ContactSection({contact}) {
+function ProfileContact({contact}) {
 
-    return (
+  return (
 
-        <>
-            <p className={moduleStyle}>{contact}</p>
-        </>
-    )
+    <>
+        <p className={moduleStyle.p3}>{contact}</p>
+    </>
+  )
 }
 
-export default ContactSection;
+export default ProfileContact;
